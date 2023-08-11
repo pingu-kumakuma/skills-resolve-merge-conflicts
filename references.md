@@ -1,3 +1,5 @@
-# References
+It's conflict!
 
-* octocat 1 😈
+
+I think this is the better.
+
